@@ -34,5 +34,5 @@
   * class Api::V1::SimpleSerializer is the main class and every method is documented
   * Spec are in the spec directory
   * the Models and Spec file have been modified a little to match with my simple serializer
-  * The Spec have been tested from my end and everything is green
+  * The Spec has been tested from my end and everything is green
   
